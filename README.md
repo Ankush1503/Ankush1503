@@ -12,7 +12,7 @@
 - Email: kumartul001@gmail.com
 - Twitter: [__Ankush_06](https://twitter.com/_Ankush_06)
 - Instagram: [__Ankush_06](https://www.instagram.com/__Ankush_06)
-- Hashnode: [@kumartul](https://hashnode.com/@kumartul)
+- Hashnode: [@Ankushl](https://hashnode.com/@Ankush1)
 
 ## My Skills 💪
 ![](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
