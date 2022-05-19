@@ -10,9 +10,8 @@
 
 ## Let's Connect 🤝
 - Email: kumartul001@gmail.com
-- Twitter: [kumartul001](https://twitter.com/kumartul001)
-- Instagram: [kumartul001](https://www.instagram.com/kumartul001)
-- Facebook: [kumartul001](https://www.facebook.com/kumartul001)
+- Twitter: [__Ankush_06](https://twitter.com/_Ankush_06)
+- Instagram: [__Ankush_06](https://www.instagram.com/__Ankush_06)
 - Hashnode: [@kumartul](https://hashnode.com/@kumartul)
 
 ## My Skills 💪
