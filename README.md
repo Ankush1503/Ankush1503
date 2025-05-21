@@ -1,7 +1,7 @@
 ### Hello, I am Ankush Kumar Singh 👋
 
 - 🔭 I’m currently working on sharpening my skills
-- 🌱 I’m currently learning CSS
+- 🌱 I’m currently learning CSS 
 - 👯 I’m looking to collaborate on Frontend Development
 - 🤔 I’m looking for help with CSS
 - 💬 Ask me anything about the technologies listed [here](https://github.com/Ankush1503#my-skills-)
@@ -9,8 +9,8 @@
 - ⚡ Fun fact: 😎
 
 ## Let's Connect 🤝
-- Email: kumartul001@gmail.com
-- Twitter: [__Ankush_06](https://twitter.com/_Ankush_06)
+- Email: ankush150306@gmail.com
+- Twitter: [real_ankush06](https://twitter.com/real_ankush06)
 - Instagram: [__Ankush_06](https://www.instagram.com/__Ankush_06)
 - Hashnode: [@Ankushl](https://hashnode.com/@Ankush1)
 
